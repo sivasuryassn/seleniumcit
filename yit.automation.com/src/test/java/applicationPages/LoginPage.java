@@ -8,6 +8,7 @@ public class LoginPage
 {
 	
 	//@FindBy(id="txtUsername") WebElement username;
+	//Adding comment by siva
 	@FindBy(how = How.ID, using = "txtUsername") WebElement username;
 	
 	@FindBy(name="txtPassword") WebElement password;
