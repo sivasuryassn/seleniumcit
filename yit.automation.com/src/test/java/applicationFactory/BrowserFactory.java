@@ -12,6 +12,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 public class BrowserFactory {
 	// This will be static method Since its return you webdriver instance
 	// So webdriver will be the return type
+	//Added one more commited by sivasurya
 
 		public static WebDriver startApplication(String browser, String url) {
 	
